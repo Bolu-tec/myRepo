@@ -92,6 +92,14 @@ A clean calculator built with vanilla JavaScript.
 
 ---
 
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Bolu-tec&bg_color=0d1117&color=00e7ff&line=00ffcc&point=ffffff&area=true&hide_border=true"/>
+</p>
+
+---
+
 ## 📬 Contact
 
 - 📫 Email: *boluokoronkwo.603@unb.ca*  
