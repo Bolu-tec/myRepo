@@ -3,22 +3,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/uchechi-okoronkwo-093b4224a"><img src="https://img.shields.io/badge/LinkedIn-uchechi--okoronkwo-blue?logo=linkedin&style=flat-square" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?logo=gmail&logoColor=white&style=flat-square" /></a>
+  <a href="mailto:boluokoronkwo.603@unb.ca"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?logo=gmail&logoColor=white&style=flat-square" /></a>
   <a href="https://github.com/Bolu-tec"><img src="https://img.shields.io/github/followers/Bolu-tec?style=flat-square" /></a>
 </p>
 
 ---
 
-## 🎓 Education
 
-**Bachelor of Software Engineering**  
-University of New Brunswick (2023 – Present)  
-📍 Fredericton, New Brunswick  
-**CGPA**: 3.6  
-🏅 *Dean’s List (2024/2025)*  
-🏅 *UNB Entrance Scholarship (2023/2024)*
-
----
 
 ## 💻 Technical Skills
 
@@ -103,7 +94,7 @@ A clean calculator built with vanilla JavaScript.
 
 ## 📬 Contact
 
-- 📫 Email: *youremail@example.com*  
+- 📫 Email: *boluokoronkwo.603@unb.ca*  
 - 🔗 LinkedIn: [linkedin.com/in/uchechi-okoronkwo-093b4224a](https://www.linkedin.com/in/uchechi-okoronkwo-093b4224a)  
 - 🧑‍💻 GitHub: [github.com/Bolu-tec](https://github.com/Bolu-tec)
 
