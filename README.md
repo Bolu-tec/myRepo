@@ -92,21 +92,23 @@ A clean calculator built with vanilla JavaScript.
 
 ---
 
-### 📈 Contribution Graph
+## 🕹️ Just a Little Game Loop...
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Bolu-tec&bg_color=0d1117&color=00e7ff&line=00ffcc&point=ffffff&area=true&hide_border=true"/>
+  <img src="pong-loop.gif" alt="Pong Game Loop" width="500" />
+</p>
+
+> This classic ping pong match will never end... kind of like my curiosity for tech 😄
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bolu-tec&show_icons=true&theme=radical&rank_icon=percentile" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bolu-tec&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 📬 Contact
-
-- 📫 Email: *boluokoronkwo.603@unb.ca*  
-- 🔗 LinkedIn: [linkedin.com/in/uchechi-okoronkwo-093b4224a](https://www.linkedin.com/in/uchechi-okoronkwo-093b4224a)  
-- 🧑‍💻 GitHub: [github.com/Bolu-tec](https://github.com/Bolu-tec)
-
----
 
 > 💡 *Always exploring. Always learning. Always building.*
 
