@@ -78,7 +78,6 @@ A clean calculator built with vanilla JavaScript.
 
 </details>
 
-➡️ Explore more: [github.com/Bolu-tec](https://github.com/Bolu-tec)
 
 ---
 
